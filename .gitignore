@@ -1,0 +1,9 @@
+/target/
+/build/
+/output/
+/.idea/
+/.vscode/
+*.iml
+/.agents/
+/.codex/
+/.aws/
